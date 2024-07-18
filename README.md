@@ -1,4 +1,6 @@
 Welcome to the Static Code Analysis App! This application allows you to analyze your code for various static code analysis metrics, visualize reserved words and identifiers, and explore the abstract syntax tree (AST) of your code.
+![App Screenshot]()
+
 
 Features
 Code Analysis: Analyze raw static code analysis metrics such as maintainability index, cyclomatic complexity, and Halstead metrics.
