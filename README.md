@@ -1,5 +1,5 @@
 Welcome to the Static Code Analysis App! This application allows you to analyze your code for various static code analysis metrics, visualize reserved words and identifiers, and explore the abstract syntax tree (AST) of your code.
-![App Screenshot]()
+![App Screenshot](image.png)
 
 
 Features
